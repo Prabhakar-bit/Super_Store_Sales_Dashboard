@@ -16,3 +16,6 @@ Developed an interactive Power BI dashboard using the Super Store dataset to ana
 2-Power Query
 3-DAX
 4-Excel/CSV Dataset
+
+DashBoard looks like-
+https://github.com/Prabhakar-bit/Super_Store_Sales_Dashboard/blob/main/super.store.dashboard.salesreport.png
